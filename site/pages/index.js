@@ -24,15 +24,21 @@ export default function Home() {
           </Link>
           {" · "}
           <Link href="https://www.linkedin.com/in/eric-newcomer/">
-            <a target="_blank">LinkedIn</a>
+            <a target="_blank" rel="noreferrer">
+              LinkedIn
+            </a>
           </Link>
           {" · "}
           <Link href="https://github.com/eric-newcomer">
-            <a target="_blank">GitHub</a>
+            <a target="_blank" rel="noreferrer">
+              GitHub
+            </a>
           </Link>
           {" · "}
           <Link href="https://www.instagram.com/ericjnewcomer/">
-            <a target="_blank">Instagram</a>
+            <a target="_blank" rel="noreferrer">
+              Instagram
+            </a>
           </Link>
         </p>
       </section>
